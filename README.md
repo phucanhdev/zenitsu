@@ -57,7 +57,7 @@ pkg update
 pkg install python3 git -y
 
 git clone https://github.com/phucanhdev/zenitsu
-cd HARUKO-ATTACK/
+cd zenitsu/
 
 pip install -r requirements.txt
 python3 zenitsu.py
